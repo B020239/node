@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "eslint": "^9.0.0",
-    "mocha": "^3.5.3",
+    "mocha": "^11.0.1",
     "pkg": "^4.4.1",
     "prettier": "2.0.5",
     "sinon": "^16.1.2"

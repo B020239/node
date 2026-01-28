@@ -21,8 +21,8 @@
     "tempy": "^0.5.0"
   },
   "devDependencies": {
-    "eslint": "^9.0.0",
-    "mocha": "^3.5.3",
+    "eslint": "^9.26.0",
+    "mocha": "^10.6.0",
     "pkg": "^4.4.1",
     "prettier": "2.0.5",
     "sinon": "^16.1.2"
